@@ -1,0 +1,1 @@
+I deleted the production database, but in my defense the command said DROP and I thought we were playing a trust exercise.
